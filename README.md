@@ -7,7 +7,7 @@ The state space is 37 in size and the action space is 4 in size. The environment
 
 Getting Started: 
 
-pip install should work for all packages required. An environment with Python 3.6 is needed.
+pip install should work for all packages required. An environment with Python 3.6 is needed. Make sure you have the banana environment downloaded in the directory.
 
 Instructions:
 
