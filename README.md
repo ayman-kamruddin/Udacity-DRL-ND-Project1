@@ -12,3 +12,6 @@ pip install should work for all packages required. An environment with Python 3.
 Instructions:
 
 Once requisite packages are installed, simply run the single python notebook to train and see the results.
+
+Results:
+model.pth file with saved weights, and figure in the repo.
