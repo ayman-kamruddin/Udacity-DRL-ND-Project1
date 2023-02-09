@@ -15,3 +15,5 @@ Once requisite packages are installed, simply run the single python notebook to 
 
 Results:
 model.pth file with saved weights, and figure in the repo.
+
+Disclaimer: I have made heavy usage of code scripts from earlier on in the Udacity Deep Reinforcement Learning Nano-Degree program.
